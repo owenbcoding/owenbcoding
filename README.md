@@ -28,14 +28,6 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="40" style="max-width: 100%;">
 </p>
 
-### Github Stats 
- ![Owencodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoghankbdev&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoghankbdev&layout=compact)](https://github.com/eoghankbdev/github-readme-stats)
-
-
-
-
 ### Fun Facts
 
 👯 I’m looking to collaborate on ...
