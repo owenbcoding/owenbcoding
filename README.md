@@ -41,3 +41,24 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" style="max-width: 100%;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="40" style="max-width: 100%;">
 </p>
+
+<h3 align="center">
+ Databases
+</h3>
+<p align="center">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" style="max-width: 100%;">
+</p>
+
+<h3 align="center">
+ Cloud Stuff
+</h3>
+<p align="center">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
+</p>
+
+<h3 align="center">
+ Other Stuff
+</h3>
+<p align="center">
+
+</p>
