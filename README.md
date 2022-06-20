@@ -11,12 +11,12 @@
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev
 
- 🔭 I’m currently working on ... My Fourth Full Stack Project for my diploma course and working on some side projects online
-🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel 
-👯 I’m looking to collaborate on ... with anyone that needs help with something or a project they are working on
-🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)
-😄 Pronouns: ... He/Him
-⚡ Fun fact: ... I am also a streamer once my internet gets better and I do mountain biking as sport for exercise
+ <p align="center"> 🔭 I’m currently working on ... My Fourth Full Stack Project for my diploma course and working on some side projects online</P>
+<p align="center">🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel</P>
+<p align="center">👯 I’m looking to collaborate on ... with anyone that needs help with something or a project they are working on</P>
+<p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
+<p align="center">😄 Pronouns: ... He/Him</P>
+<p align="center">⚡ Fun fact: ... I am also a streamer once my internet gets better and I do mountain biking as sport for exercise</P>
 
 <h3 align="center">
  My Skills!
