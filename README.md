@@ -8,7 +8,7 @@
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev
 
- <p align="center"> 🔭 I’m currently working on ... My Fourth Project which is Full Stack for my diploma course and working on some side projects online</P>
+<p align="center"> 🔭 I’m currently working on ... My Fourth Project which is Full Stack for my diploma course and working on some side projects online</P>
 <p align="center">🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel</P>
 <p align="center">👯 I’m looking to collaborate on ... with anyone that needs help with something or a project they are working on</P>
 <p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
@@ -19,10 +19,12 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
  My Skills!
 </h3>
 <p align="center">
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="HTML5" height="40" style="max-width: 100%;">
- <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="40" style="max-width: 100%;">
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
 </p>
 
 <h3 align="center">
@@ -60,7 +62,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Cloud Stuff
+ Cloud
 </h3>
 <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
@@ -76,4 +78,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" style="max-width: 100%;">
+   <img src="https://github.com/devicons/devicon/tree/master/icons/threejs" height="40" style="max-width: 100%;">
+   <img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss" height="40" style="max-width: 100%;">
+   <img src="https://github.com/devicons/devicon/tree/master/icons/typescript" height="40" style="max-width: 100%;">
 </p>
