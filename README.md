@@ -11,6 +11,13 @@
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev
 
+ 🔭 I’m currently working on ... My Fourth Full Stack Project for my diploma course and working on some side projects online
+🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel 
+👯 I’m looking to collaborate on ... with anyone that needs help with something or a project they are working on
+🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)
+😄 Pronouns: ... He/Him
+⚡ Fun fact: ... I am also a streamer once my internet gets better and I do mountain biking as sport for exercise
+
 <h3 align="center">
  My Skills!
 </h3>
@@ -27,20 +34,3 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="HTML5" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="40" style="max-width: 100%;">
 </p>
-
-### Fun Facts
-
-👯 I’m looking to collaborate on ...
-
-I am open to helping new people who are new to tech or anyone that needs help with their project.
-
-- 💬 Ask me about ...
-
-You can ask me about anything related to programming on discord is where im mostly at and on twitch.
-
-- 📫 How to reach me: ...
-
-You can join my discord server with this link https://discord.gg/TBZn5nYMFY if the link has expired pleas email me below
-Email: eoghankb@gmail.com
-
-This is my twitch account where I stream science & technology for anyone interested in learning more https://www.twitch.tv/owencodes
