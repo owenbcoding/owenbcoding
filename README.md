@@ -25,6 +25,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="HTML5" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
 </p>
 
 <h3 align="center">
