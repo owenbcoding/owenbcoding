@@ -66,7 +66,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Cloud
+ Cloud Technologies
 </h3>
 <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
@@ -82,7 +82,6 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" style="max-width: 100%;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" height="40" style="max-width: 100%;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" style="max-width: 100%;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" style="max-width: 100%;">
 </p>
