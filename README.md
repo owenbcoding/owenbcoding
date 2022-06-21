@@ -47,7 +47,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Frameworks
+ Frameworks!
 </h3>
 <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" style="max-width: 100%;">
@@ -56,7 +56,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Databases
+ Databases!
 </h3>
 <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" style="max-width: 100%;">
@@ -65,7 +65,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Cloud Technologies
+ Cloud Technologies!
 </h3>
 <p align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
@@ -73,7 +73,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Other Stuff
+ Other Stuff!
 </h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" style="max-width: 100%;">
