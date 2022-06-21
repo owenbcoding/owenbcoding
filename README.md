@@ -38,7 +38,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" style="max-width: 100%, white;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="max-width: 100%;">
