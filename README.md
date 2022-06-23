@@ -2,8 +2,6 @@
    Hi 👋, Im Owen
 </h1>
 
-![chrome_uNwmc0WMPl](https://user-images.githubusercontent.com/43074374/166413284-a9c3159a-3535-4898-a3df-b3f3c4b228a6.png)
-
 <h2 align="center"> About me </h2>
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev
