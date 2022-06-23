@@ -2,11 +2,11 @@
    Hi 👋, Im Owen
 </h1>
 
+![For_website](https://user-images.githubusercontent.com/43074374/175297958-851483cd-7394-4a01-a3fa-74ba7e5aafa5.png)
+
 <h2 align="center"> About me </h2>
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev</P>
-
-![For_website](https://user-images.githubusercontent.com/43074374/175297958-851483cd-7394-4a01-a3fa-74ba7e5aafa5.png)
 
 <p align="center"> 🔭 I’m currently working on ... My Fourth Project which is Full Stack for my diploma course and working on some side projects online</P>
 <p align="center">🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel / Full Stack Ecommerce I am learning also learning Laravel from the Laracast Course https://laracasts.com/series/laravel-8-from-scratch</P>
