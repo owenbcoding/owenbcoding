@@ -44,7 +44,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </p>
 
 <h3 align="center">
- Currently Learning!
+ Tools & technologies I have worked with and learning
 </h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="HTML5" height="40" style="max-width: 100%;">
