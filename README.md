@@ -10,8 +10,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 
 <p align="center">🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel / Full Stack Ecommerce I am learning also learning Laravel from the Laracast Course https://laracasts.com/series/laravel-8-from-scratch</P>
 
-<p align="center">Eventually I will also be getting into Blockchain technology and Decenteralized Apps and Websites and NFT Miniting! Stay tuned.</p>
-<h3 align="center">
+<p align="center">Eventually I will also be getting into Blockchain technology and Decenteralized Apps and Websites and NFT Miniting! Stay tuned. https://buildspace.so/</p>
 
 <p align="center"> 🔭 I’m currently working on ... My Fourth Project which is Full Stack for my diploma course and working on a side project a Trading website for someone who will teach classes in Technical Analyses in trading.</P>
 
@@ -21,6 +20,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 
 <p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
 
+<h3 align="center">
  My Skills!
 </h3>
 <p align="center">
