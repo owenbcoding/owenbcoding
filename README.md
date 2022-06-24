@@ -59,7 +59,6 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="40" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" style="max-width: 100%, white;">
 </p>
 
 <h3 align="center">
