@@ -13,7 +13,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <p align="center">👯 I’m looking to collaborate on ... With anyone that needs help with something or a project they are working on</P>
 <p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
 <p align="center">⚡ Fun fact: ... I am also a streamer once my internet improves and I do mountain biking as sport for exercise</P>
-
+<p align="center">Eventually I will also be getting into Blockchain technology and Decenteralized Apps and Websites and NFT Miniting! Stay tuned.</p>
 <h3 align="center">
  My Skills!
 </h3>
