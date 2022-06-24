@@ -25,8 +25,8 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 </h1>
 <p align="center">- Owencodes.dev: My Personal proftolio site for my dev projects: In Development</p>
 <p align="center">- Hostsapling.net: A game hosting site I worked on: In Development</p>
-<p align="center">- FlipTekTA.com: A Technical Analyses Classes Site : In Development</p>
 <p align="center">- SinfulSlothNFT.art: A NFT Project I was Helping A friend on : https://sinfulsloth.art/ On Going Development</p>
+<p align="center">- FlipTekTA.com: A Technical Analyses Classes Site : In Development</p>
 
 <h3 align="center">
  My Skills!
