@@ -8,13 +8,19 @@
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev</P>
 
-<p align="center"> 🔭 I’m currently working on ... My Fourth Project which is Full Stack for my diploma course and working on a side project a Trading website for someone who will teach classes in Technical Analyses in trading.</P>
 <p align="center">🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel / Full Stack Ecommerce I am learning also learning Laravel from the Laracast Course https://laracasts.com/series/laravel-8-from-scratch</P>
-<p align="center">👯 I’m looking to collaborate on ... With anyone that needs help with something or a project they are working on</P>
-<p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
-<p align="center">⚡ Fun fact: ... I am also a streamer once my internet improves and I do mountain biking as sport for exercise</P>
+
 <p align="center">Eventually I will also be getting into Blockchain technology and Decenteralized Apps and Websites and NFT Miniting! Stay tuned.</p>
 <h3 align="center">
+
+<p align="center"> 🔭 I’m currently working on ... My Fourth Project which is Full Stack for my diploma course and working on a side project a Trading website for someone who will teach classes in Technical Analyses in trading.</P>
+
+<p align="center">👯 I’m looking to collaborate on ... With anyone that needs help with something or a project they are working on</P>
+
+<p align="center">⚡ Fun fact: ... I am also a streamer once my internet improves and I do mountain biking as sport for exercise</P>
+
+<p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
+
  My Skills!
 </h3>
 <p align="center">
