@@ -26,6 +26,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <p align="center">
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS3" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="HTML5" height="40" style="max-width: 100%;">
