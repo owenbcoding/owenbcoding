@@ -20,6 +20,14 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 
 <p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
 
+<h1 align="center">
+  Projects
+</h1>
+<p>* Owencodes.dev: My Personal proftolio site for my dev projects: In Development</p>
+<p>* Hostsapling.net: A game hosting site I worked on: In Development</p>
+<p>* FlipTekTA.com: A Technical Analyses Classes Site : In Development</p>
+<p>* SinfulSlothNFT.art: A NFT Project I was Helping A friend on : https://sinfulsloth.art/ On Going Development</p>
+
 <h3 align="center">
  My Skills!
 </h3>
