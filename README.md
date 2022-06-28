@@ -31,7 +31,17 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <h2 align="center">
   My Stack
 </h2>
-![fullstack_mystack](https://user-images.githubusercontent.com/43074374/176183862-d7f9a3d5-7b3a-4e99-8196-5c0451e662d5.jpg)
+<p align="center">
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="HTML5" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="HTML5" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker" style="max-width: 100%;">
+</p>
+  
 
 <h3 align="center">
  My Skills!
@@ -64,6 +74,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="HTML5" height="40" style="max-width: 100%;">
 </p>
 
 <h3 align="center">
@@ -73,6 +84,7 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" style="max-width: 100%;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="40" style="max-width: 100%;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height="40" style="max-width: 100%;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="HTML5" height="40" style="max-width: 100%;">
 </p>
 
 <h3 align="center">
