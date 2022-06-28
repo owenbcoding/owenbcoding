@@ -4,7 +4,7 @@
 
 ![For website](https://user-images.githubusercontent.com/43074374/175537153-f3dca664-d5b5-4784-8235-471b6a3097b8.png)
 
-<h2 align="center"> About me </h2>
+<h1 align="center"> About me </h1>
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev</P>
 
@@ -20,13 +20,18 @@ My name is Owen I am a Jr software & web developer from cork Ireland I am curren
 
 <p align="center">🎓 Undergrad: ... Pending - Diploma in Software Development (E-commerce Applications)</P>
 
-<h1 align="center">
+<h2 align="center">
   Projects
-</h1>
+</h2>
 <p align="center"> Owencodes.dev : My Personal proftolio site for my dev projects: In Development</p>
 <p align="center"> Hostsapling.net : A game hosting site I worked on: In Development</p>
 <p align="center"> SinfulSlothNFT.art : A NFT Project I was Helping A friend on : https://sinfulsloth.art/ On Going Development</p>
 <p align="center"> FlipTekTA.com : A Technical Analyses Classes Trading Site : In Development</p>
+
+<h2 align="center">
+  My Stack
+</h2>
+![fullstack_mystack](https://user-images.githubusercontent.com/43074374/176183862-d7f9a3d5-7b3a-4e99-8196-5c0451e662d5.jpg)
 
 <h3 align="center">
  My Skills!
