@@ -8,6 +8,11 @@
 <p align="center">
 My name is Owen I am a Jr software & web developer from cork Ireland I am currently doing my diploma course at https://codeinstitute.net/ Learning to be a full stack dev</P>
 
+<h1 align="center"> My Portfolio </h1>
+<p align="center">
+This is my dev protfolio site I made while learning react https://www.owencodes.dev/ it is hosted on varcel 
+</P>
+
 <p align="center">🌱 I’m currently learning ... Javascript / Python / Django / Databases / Laravel / Full Stack Ecommerce / Web3 Blockchain Technology I am learning also learning Laravel from the Laracast Course https://laracasts.com/series/laravel-8-from-scratch</P>
 
 <p align="center">Eventually I will also be getting into Blockchain technology and Decenteralized Apps and Websites and NFT Miniting! Stay tuned. https://buildspace.so/</p>
