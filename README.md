@@ -2,7 +2,7 @@
    Hi 👋, Im Owen
 </h1>
 
-![chrome_zjVg604nPf](https://user-images.githubusercontent.com/43074374/176989002-96f21910-180b-45ef-835f-0648e3d18ebb.png)
+![chrome_meSpQN4kpe](https://user-images.githubusercontent.com/43074374/176989028-47aa0ab5-4a68-4789-a168-e9ccc2fc5720.png)
 
 <h1 align="center"> About me </h1>
 <p align="center">
