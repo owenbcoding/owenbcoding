@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio in development]
 
-- 📝 I regularly write Blogs on [My Projects I create on my website](My Projects I create on my website)
+- 📝 I regularly write Blogs on [My Projects I create on my website]
 
 - 💬 Ask me about **My Experience**
 
