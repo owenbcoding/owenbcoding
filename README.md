@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Owencodes</h1>
 <h3>A passionate Full Stack Engineer from Ireland</h3>
 
-- 🔭 I’m currently working on [Devstories a social network for devs](No Link yet)
+- 🔭 I’m currently working on Devstories a social network for devs
 
 - 🌱 I’m currently learning **Postgres, Vue, React, Next and express**
 
