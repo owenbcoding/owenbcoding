@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Owencodes</h1>
+<img src="https://i.imgur.com/oomRaOh.png" alt="Owencodes - Software Engineer" style="max-width: 100%;">
+
+<h1 align="center">Hi 👋, I'm Owencodes</h1>
 <h3>A passionate Full Stack Engineer from Ireland</h3>
-![Banner Image](https://imgur.com/a/NUBRdEq.jpg)
-<img alt="banner" src=""/>
 
 - 🔭 I’m currently working on [Devstories a social network for devs](No Link yet)
 
