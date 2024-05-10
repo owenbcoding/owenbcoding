@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owencodes</h1>
 
-<img src="https://i.imgur.com/oomRaOh.png" alt="Owencodes - Software Engineer" style="max-width: 100%;">
+<img src="https://imgur.com/Kc5cqgH.png" alt="Owencodes - Software Engineer" style="max-width: 100%;">
 
 <h3>A passionate Full Stack Engineer from Ireland</h3>
 
