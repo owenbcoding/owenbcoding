@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 <!-- <img src="" alt="Laravel" width="40" height="40"/> -->
 
