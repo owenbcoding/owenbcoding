@@ -28,7 +28,7 @@
 
 <h3 align="left">I am Currently Learning:</h3>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Laravel" width="40" height="40"/>
 </p>
 <!-- <img src="" alt="Laravel" width="40" height="40"/> -->
