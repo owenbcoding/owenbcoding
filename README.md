@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://twitter.com/eoghanb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eoghanb2" height="30" width="40" /></a>
 <a href="https://instagram.com/owencodesofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owencodesofficial" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@owencodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@owencodes" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="" alt="@owencodes" height="30" width="40" /></a> -->
 </p>
 
 
