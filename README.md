@@ -29,7 +29,7 @@
 
 <h3>A passionate Full Stack Engineer!</h3>
 
-- 🔭 I’m currently working on Devstories a social network for devs
+- 🔭 I’m currently working on Devstories.dev a social network mainly for developers as my startup with a friend on discord.
 
 - 🌱 I’m currently learning **Postgres, Vue, React, Next and express**
 
@@ -40,6 +40,6 @@
 <!-- <a href="https://twitter.com/eoghanb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eoghanb2" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/owencodesofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owencodesofficial" height="30" width="40" /></a> -->
 <!-- <a href="" target="blank"><img align="center" src="" alt="@owencodes" height="30" width="40" /></a> -->
-</p> -->
+</p> --> Add my handle on discord owencodes if you want to connect.
 
 
