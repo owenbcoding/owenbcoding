@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </p>
 
-<h3>A passionate Full Stack Engineer from Ireland</h3>
+<h3>A passionate Full Stack Engineer!</h3>
 
 - 🔭 I’m currently working on Devstories a social network for devs
 
