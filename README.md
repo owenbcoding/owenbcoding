@@ -29,7 +29,7 @@
 
 <h3>A passionate Full Stack Engineer!</h3>
 
-- 🔭 I’m currently working on Devstories.dev a social network mainly for developers as my startup with a friend on discord.
+- 🔭 I’m currently working on Learning more laravel with laracast.
 
 - 🌱 I’m currently learning **Postgres, Vue, React, Next and express**
 
