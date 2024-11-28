@@ -2,8 +2,8 @@
 
 <img src="https://imgur.com/w8JDnzz.png" alt="Owencodes - Software Engineer" width="1000"  height="400">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left" align="center">Languages and Tools:</h3>
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
