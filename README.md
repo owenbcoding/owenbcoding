@@ -33,20 +33,3 @@
 <h3 align="left" align="center">Stats:</h3>
 
 
-
-<h3>A passionate Full Stack Engineer!</h3>
-
-- 🔭 I’m currently working on Learning more laravel with laracast.
-
-- 🌱 I’m currently learning **Postgres, Vue, React, Next and express**
-
-- 👯 I’m looking to collaborate on **Open Source projects for exeprience**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/eoghanb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eoghanb2" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/owencodesofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owencodesofficial" height="30" width="40" /></a> -->
-<!-- <a href="" target="blank"><img align="center" src="" alt="@owencodes" height="30" width="40" /></a> -->
-</p> --> Add my handle on discord owencodes if you want to connect.
-
-
