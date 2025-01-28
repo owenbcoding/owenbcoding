@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Owen</h1>
 <h2>A passionate Full Stack developer from Ireland</h2>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my Portfolio**
 
-- 🌱 I’m currently learning **Laravel Inertia.js, React, Vue, and more..**
+- 🌱 I’m currently learning **Laravel Inertiajs, React, Vue, and more..**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
