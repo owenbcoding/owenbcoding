@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
----
-
 ## 🖥️ Tech Stack:
 
 <p align="left">
@@ -27,8 +25,6 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
 </p>
-
----
 
 ## 📊 GitHub Stats:
 
