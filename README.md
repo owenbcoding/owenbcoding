@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Owen</h1>
-<h2>A passionate Full Stack developer from Ireland</h2>
+<h2>A passionate developer from Ireland</h2>
 
 - 🔭 I’m currently working on **my Portfolio**
 
