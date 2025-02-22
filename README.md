@@ -8,7 +8,7 @@
       <br>👯 I’m looking to collaborate on open-source projects  
     </td>
     <td>
-      Curreent Stacks I work with :
+      Current Stacks I work with :
       <br>Current Stack → TALL Stack or VILT Stack *(Depending on project scope)*  
       <br>Backend Frameworks → Laravel  
       <br>Frontend → Vue / React / Alpine.js  
