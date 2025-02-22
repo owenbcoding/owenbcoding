@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Owen A passionate developer from Ireland</h1>
+<h1>Hi 👋, I'm Owen a passionate developer from Ireland</h1>
 <table>
   <tr>
     <h2>About me: </h2>
