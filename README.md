@@ -9,7 +9,7 @@
     </td>
     <td>
       Current Stacks I work with :
-      <br>Current Stack → TALL Stack or VILT Stack *(Depending on project scope)*  
+      <br>Current Stack → TALL Stack or VILT Stack *(Depending on the project)*
       <br>Backend Frameworks → Laravel  
       <br>Frontend → Vue / React / Alpine.js  
       <br>Databases → MySQL / MariaDB / PostgreSQL  
