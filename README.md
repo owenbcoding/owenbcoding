@@ -1,11 +1,22 @@
-<h1>Hi 👋, I'm Owen</h1>
-<h2>A passionate developer from Ireland</h2>
-
-- 🔭 I’m currently working on **my Portfolio**
-
-- 🌱 I’m currently learning **Laravel Inertiajs, React, Vue, and more..**
-
-- 👯 I’m looking to collaborate on **open source projects**
+<h1>Hi 👋, I'm Owen A passionate developer from Ireland</h1>
+<table>
+  <tr>
+    <h2>About me: </h2>
+    <td>
+      🔭 I’m currently working on My Portfolio 
+      <br>🌱 I’m currently learning Laravel Inertia.js, React, Vue, and more.. 
+      <br>👯 I’m looking to collaborate on open-source projects  
+    </td>
+    <td>
+      Curreent Stacks I work with :
+      <br>Current Stack → TALL Stack or VILT Stack *(Depending on project scope)*  
+      <br>Backend Frameworks → Laravel  
+      <br>Frontend → Vue / React / Alpine.js  
+      <br>Databases → MySQL / MariaDB / PostgreSQL  
+      <br>DevOps → Digital Ocean / Nginx  
+    </td>
+  </tr>
+</table>
 
 ## 🖥️ Tech Stack:
 
