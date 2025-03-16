@@ -3,13 +3,13 @@
   <tr>
     <h2>About me: </h2>
     <td>
-      🔭 I’m currently working on My Portfolio 
+      🔭 I’m currently working on My Portfolio.
       <br>🌱 I’m currently learning Laravel Inertia.js, React, Vue, and more.. 
-      <br>👯 I’m looking to collaborate on open-source projects  
+      <br>👯 I’m looking to collaborate on open-source projects.
     </td>
     <td>
       Current Stacks I work with :
-      <br>Current Stack → TALL Stack or VILT Stack *(Depending on the project)*
+      <br>Current Stack → TALL Stack or VILT Stack [ Depending on the project ]
       <br>Backend Frameworks → Laravel  
       <br>Frontend → Vue / React / Alpine.js / Livewire
       <br>Databases → MySQL / MariaDB / PostgreSQL  
