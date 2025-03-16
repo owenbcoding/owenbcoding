@@ -11,7 +11,7 @@
       Current Stacks I work with :
       <br>Current Stack → TALL Stack or VILT Stack [ Depending on the project ]
       <br>Backend Frameworks → Laravel  
-      <br>Frontend → Vue / React / Alpine.js / Livewire
+      <br>Frontend → Vue / React / Alpine.js / Livewire / TailwindCSS
       <br>Databases → MySQL / MariaDB / PostgreSQL  
       <br>DevOps → Digital Ocean / Nginx  
     </td>
