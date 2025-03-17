@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Owen a passionate developer from Ireland</h1>
+<h2>About me: </h2>
+<p>I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and machine learning.</p>
 <table>
   <tr>
-    <h2>About me: </h2>
     <td>
       🔭 I’m currently working on My Portfolio.
       <br>🌱 I’m currently learning Laravel Inertia.js, React, Vue, and more.. 
