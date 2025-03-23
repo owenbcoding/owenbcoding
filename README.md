@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Owen a passionate developer from Ireland</h1>
 <h2>About me: </h2>
-<p>I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and machine learning.</p>
+<p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and machine learning.</p>
 <table>
   <tr>
     <td>
