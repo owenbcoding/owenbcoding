@@ -44,6 +44,7 @@
 - React
 - Inetriajs
 - Typescript
+- Dev Ops
 
 ## 📊 GitHub Stats:
 
