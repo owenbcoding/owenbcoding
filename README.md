@@ -41,7 +41,7 @@
 
 ## ✔️ I'm currently learning
 - Shopify Dev
-- React
+- React + Vue
 - Inetriajs
 - Typescript
 - Dev Ops
