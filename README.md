@@ -40,9 +40,10 @@
 </p>
 
 ✔️ I'm currently learning
-- Shopify
+- Shopify Dev
 - React
 - Typescript
+- Go
 
 ## 📊 GitHub Stats:
 
