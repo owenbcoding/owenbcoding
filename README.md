@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
 </p>
 
-✔️ I'm currently learning
+## ✔️ I'm currently learning
 - Shopify Dev
 - React
 - Inetriajs
