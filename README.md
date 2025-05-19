@@ -42,8 +42,8 @@
 ✔️ I'm currently learning
 - Shopify Dev
 - React
+- Inetriajs
 - Typescript
-- Go
 
 ## 📊 GitHub Stats:
 
