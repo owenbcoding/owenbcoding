@@ -40,7 +40,7 @@
 </p>
 
 ## ✔️ I'm currently learning
-- Shopify Dev
+- Database design
 - React + Vue
 - Inetriajs
 - Typescript
