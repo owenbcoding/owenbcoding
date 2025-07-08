@@ -5,7 +5,7 @@
   <tr>
     <td>
       🔭 I’m currently working on My Portfolio.
-      <br>🌱 I’m currently learning Laravel Inertia.js, React, Vue, and more.. 
+      <br>🌱 I’m currently learning Laravel Inetriajs, React, Vue, and more.. 
       <br>👯 I’m looking to collaborate on open-source projects.
     </td>
     <td>
