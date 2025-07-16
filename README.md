@@ -1,6 +1,12 @@
 <h1>Hi 👋, I'm Owen a passionate developer from Ireland</h1>
 <h2>About me: </h2>
-<img src="https://imgur.com/a/6ocwW1Q.png" alt="Owencodes - Software Engineer" style="max-width: 100%;">
+<p align="center">
+   <img
+    src="https://imgur.com/8L7uuwW.png"
+    alt="Owencodes - Software Engineer"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
 <p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and machine learning.</p>
 <table>
   <tr>
