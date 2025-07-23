@@ -49,7 +49,7 @@
 ## ✔️ I'm currently learning
 - Database design
 - React + Vue
-- Inetriajs
+- Inertiajs
 - Typescript
 - Dev Ops
 
