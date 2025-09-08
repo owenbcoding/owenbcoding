@@ -48,7 +48,7 @@
 
 ## ✔️ I'm currently learning
 - Shopify Dev
-- Inertiajs + Vue + React
+- Vue + React
 - Database design
 - Typescript
 - Dev Ops
