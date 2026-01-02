@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=owenbcoding&show_icons=true&theme=tokyonight" alt="owenbcoding stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owenbcoding&show_icons=true&layout=compact&theme=tokyonight" alt="owenbcoding top languages" />
-</div>
+</div> -->
