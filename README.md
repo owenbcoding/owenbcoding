@@ -15,14 +15,6 @@
       <br>🌱 I’m currently learning Laravel Inetriajs, React, Vue, and more.. 
       <br>👯 I’m looking to collaborate on open-source projects.
     </td>
-    <td>
-      Current Stacks I work with :
-      <br>Current Stack → TALL Stack or VILT Stack [ Depending on the project ]
-      <br>Fullstack Framework → Laravel  
-      <br>Frontend → Vue / React / Alpine.js / Livewire / TailwindCSS
-      <br>Databases → MySQL / MariaDB / PostgreSQL  
-      <br>DevOps → Digital Ocean / Nginx  
-    </td>
   </tr>
 </table>
 
