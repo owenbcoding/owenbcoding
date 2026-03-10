@@ -1,6 +1,15 @@
 <h1>Hi 👋, I'm Owen a passionate developer from Ireland</h1>
 <h2>About me: </h2>
+<tr>
+    <td>
+      🔭 I’m currently working on Hackerinn a social platform for indie builders.
+      <br>🌱 I’m currently learning Vue, Next, React and Express. 
+      <br>👯 I’m looking to collaborate on open-source projects.
+    </td>
+</tr>
+
 <p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and Machine Learning.</p>
+
 <p align="center">
    <img
     src="https://imgur.com/RiXST0X.png"
@@ -8,15 +17,6 @@
     style="max-width: 100%; height: auto;"
   />
 </p>
-<table>
-  <tr>
-    <td>
-      🔭 I’m currently working on My Portfolio.
-      <br>🌱 I’m currently learning Laravel Inetriajs, React, Vue, and more.. 
-      <br>👯 I’m looking to collaborate on open-source projects.
-    </td>
-  </tr>
-</table>
 
 ## 🖥️ Tech Stack:
 
@@ -37,17 +37,3 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
 </p>
-
- <!--  ## ✔️ I'm currently learning
-- Shopify Dev
-- Vue + React
-- Database design
-- Typescript
-- Dev Ops
-
-## 📊 GitHub Stats: -->
-
-<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=owenbcoding&show_icons=true&theme=tokyonight" alt="owenbcoding stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owenbcoding&show_icons=true&layout=compact&theme=tokyonight" alt="owenbcoding top languages" />
-</div> -->
