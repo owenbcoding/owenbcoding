@@ -3,7 +3,7 @@
 <tr>
     <td>
       🔭 I’m currently working on Hackerinn a social platform for indie builders.
-      <br>🌱 I’m currently learning Vue, React, and Express. 
+      <br>🌱 I’m currently learning Vue, React and Express. 
       <br>👯 I’m looking to collaborate on open-source projects.
     </td>
 </tr>
