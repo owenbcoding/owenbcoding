@@ -2,9 +2,9 @@
 <h2>About me: </h2>
 <tr>
     <td>
-      🔭 I’m currently working on Hackerinn a social platform for indie builders | Specsage AI-powered PC build assistant | LeadScout Find local businesses worth calling
-      <br>🌱 I’m currently learning AI and ML and Agentic AI Applications 
-      <br>👯 I’m looking to collaborate on open-source projects.
+      🔭 I’m currently working on 3 big personal projects.
+      <br>🌱 I’m currently learning AI and ML.
+      <br>👯 I’m looking to collaborate on any project.
     </td>
 </tr>
 
