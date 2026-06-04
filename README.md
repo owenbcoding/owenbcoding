@@ -10,14 +10,6 @@
 
 <p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and Machine Learning.</p>
 
-<p align="center">
-   <img
-    src="https://imgur.com/RiXST0X.png"
-    alt="Owencodes - Software Engineer"
-    style="max-width: 100%; height: auto;"
-  />
-</p>
-
 ## 🖥️ Tech Stack:
 
 <p align="left">
@@ -36,4 +28,12 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+</p>
+
+<p align="center">
+   <img
+    src="https://imgur.com/RiXST0X.png"
+    alt="Owencodes - Software Engineer"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
