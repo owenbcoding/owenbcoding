@@ -8,8 +8,6 @@
     </td>
 </tr>
 
-<p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and Machine Learning.</p>
-
 ## 🖥️ Tech Stack:
 
 <p align="left">
