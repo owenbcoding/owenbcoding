@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
 </p>
 
-<p align="center">
+<!-- <p align="center">
    <img
     src="https://imgur.com/RiXST0X.png"
     alt="Owencodes - Software Engineer"
     style="max-width: 100%; height: auto;"
   />
-</p>
+</p> -->
