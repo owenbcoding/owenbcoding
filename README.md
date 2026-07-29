@@ -3,7 +3,7 @@
 <p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and Machine Learning.</p>
 <tr>
     <td>
-      🔭 I’m currently working on 3 big personal projects.
+      🔭 I’m currently working on some personal projects.
       <br>🌱 I’m currently learning AI and ML.
       <br>👯 I’m looking to collaborate on any project.
     </td>
