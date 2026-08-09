@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eoghan ( Owen ) from Ireland</h1>
 <h2>About me: </h2>
-<p>I am a Full-Stack Developer and I enjoy creating full-stack apps from scratch and bring my ideas to life with projects I also have a interest in AI and Machine Learning.</p>
+<p>I am a Full Stack Developer. With a passion for coding and problem-solving, I enjoy creating innovative applications that make a difference</p>
 <tr>
     <td>
       🔭 I’m currently working on some personal projects.
