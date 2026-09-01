@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eoghan ( Owen ) from Ireland</h1>
+<h1>Hi, I'm Owen</h1>
 <h2>About me: </h2>
 <p>I am a Full Stack Developer. With a passion for coding and problem-solving, I enjoy creating innovative applications that make a difference</p>
 <tr>
