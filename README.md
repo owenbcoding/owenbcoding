@@ -1,4 +1,7 @@
 <h1>Hi, I'm Owen</h1>
+
+    💻 Self-Taught Programmer | 💻 Building things that matter | 🤖 AI & automation | 👨‍💻 Full Stack Dev
+
 <h2>About me: </h2>
 <p>I am a Full Stack Developer. With a passion for coding and problem-solving, I enjoy creating innovative applications that make a difference</p>
 <tr>
@@ -8,8 +11,6 @@
       <br>👯 I’m looking to collaborate on any project.
     </td>
 </tr><br>
-
-    💻 Self-Taught Programmer | 💻 Building things that matter | 🤖 AI & automation | 👨‍💻 Full Stack Dev
 
 ## 🖥️ My Stack:
 
